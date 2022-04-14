@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-14T16:15:03.531Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ozB2LKdWf28o8xS9XLkJ" version="17.4.4" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-04-14T16:40:24.464Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="0XneQNsQQV0M16EvT90k" version="17.4.4" type="github" pages="8">
   <diagram id="0ICTotIIzp-utOfAbFgl" name="MainActivity">
     <mxGraphModel dx="1164" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JBi-9Xd2q6rtQXh__6bf" name="ListFragment">
-    <mxGraphModel dx="970" dy="1625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="330" dy="1623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -445,7 +445,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qu2rN9O71oNQxfWr0iQJ-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;initView&lt;br style=&quot;font-size: 14px;&quot;&gt;(addOnScrollListener)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="223" y="-1020.5" width="160" height="35" as="geometry" />
+          <mxGeometry x="223" y="-1025.5" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Qu2rN9O71oNQxfWr0iQJ-3" value="initView&lt;br style=&quot;font-size: 14px;&quot;&gt;(addOnScrollListener)" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="470" y="-1167" width="140" height="35" as="geometry" />
@@ -498,7 +498,7 @@
           <mxGeometry x="1350" y="-1169" width="120" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-v7GlF5sx8KT-MsRVG-I-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;clickChangeBtn&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="223" y="-940.5" width="160" height="35" as="geometry" />
+          <mxGeometry x="223" y="-955.5" width="160" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-v7GlF5sx8KT-MsRVG-I-15" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;clickChangeBtn&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="820" y="-1167.5" width="130" height="35" as="geometry" />
@@ -566,7 +566,7 @@
         <mxCell id="-yAnFaxZ0yFPzybX95rO-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="-v7GlF5sx8KT-MsRVG-I-29" target="-yAnFaxZ0yFPzybX95rO-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-v7GlF5sx8KT-MsRVG-I-29" value="setBtnChange" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;fillColor=#CCE5FF;" parent="1" vertex="1">
+        <mxCell id="-v7GlF5sx8KT-MsRVG-I-29" value="setBtnChange&lt;br&gt;(mChangeLayout)" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;fillColor=#FFE6CC;" parent="1" vertex="1">
           <mxGeometry x="960" y="-499" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-yAnFaxZ0yFPzybX95rO-1" value="mZooAdapter" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" parent="1" vertex="1">
@@ -584,7 +584,7 @@
         <mxCell id="4pR1slsh6rrFFwjy-Ms--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="-yAnFaxZ0yFPzybX95rO-7" target="4pR1slsh6rrFFwjy-Ms--1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-yAnFaxZ0yFPzybX95rO-7" value="observe" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="-yAnFaxZ0yFPzybX95rO-7" value="observe&lt;br&gt;(getListObserver)" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;fillColor=#ffe6cc;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1434" y="-1008" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GfB-ROrCQURBzAX8797-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="4pR1slsh6rrFFwjy-Ms--1" target="8GfB-ROrCQURBzAX8797-1" edge="1">
@@ -595,7 +595,7 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4pR1slsh6rrFFwjy-Ms--1" value="mRecyclerView.adapter is ZooAdapter" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=0;fontStyle=0;" parent="1" vertex="1">
+        <mxCell id="4pR1slsh6rrFFwjy-Ms--1" value="mRecyclerView.adapter is ZooAdapter" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#ffe6cc;strokeColor=#000000;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="1454" y="-878" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8GfB-ROrCQURBzAX8797-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="8GfB-ROrCQURBzAX8797-1" target="8GfB-ROrCQURBzAX8797-4" edge="1">
@@ -638,24 +638,27 @@
         <mxCell id="8GfB-ROrCQURBzAX8797-14" value="mProgressDialog != null" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#000000;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="1454" y="-328" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="pdf6DkCSVXwr_ouDZP4f-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" edge="1" parent="1" source="8GfB-ROrCQURBzAX8797-16" target="pdf6DkCSVXwr_ouDZP4f-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="8GfB-ROrCQURBzAX8797-16" value="mProgressDialog&lt;br style=&quot;font-size: 14px;&quot;&gt;.dismiss()" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFFFFF;strokeColor=#000000;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="1434" y="-188" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8GfB-ROrCQURBzAX8797-19" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;ZooAdapter(pTitle)&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;fillColor=#FFE6CC;" parent="1" vertex="1">
-          <mxGeometry x="243" y="-868.5" width="120" height="35" as="geometry" />
+          <mxGeometry x="243" y="-890.5" width="120" height="35" as="geometry" />
         </mxCell>
         <mxCell id="GdtHxVMdwvRlD1HRi8Vr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" parent="1" source="8GfB-ROrCQURBzAX8797-19" target="GdtHxVMdwvRlD1HRi8Vr-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="303" y="-661" as="sourcePoint" />
+            <mxPoint x="303" y="-683" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FRr1dYUG4Cu2WADVzIxR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="1" source="GdtHxVMdwvRlD1HRi8Vr-1" target="DeTcE2cg6ZSuZdtJStlC-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="303" y="-710" as="targetPoint" />
+            <mxPoint x="303" y="-748" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GdtHxVMdwvRlD1HRi8Vr-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;callApiNow&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="258" y="-783" width="90" height="35" as="geometry" />
+          <mxGeometry x="258" y="-821" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="asDoGlVWf7U8o6luk190-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;callApiNow()&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" parent="1" vertex="1">
           <mxGeometry x="1714" y="-1167" width="118" height="59" as="geometry" />
@@ -705,11 +708,14 @@
         </mxCell>
         <mxCell id="DeTcE2cg6ZSuZdtJStlC-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="-v7GlF5sx8KT-MsRVG-I-13" target="8GfB-ROrCQURBzAX8797-19">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="300" y="-900" as="sourcePoint" />
+            <mxPoint x="300" y="-915" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="DeTcE2cg6ZSuZdtJStlC-7" value="setViewData" style="whiteSpace=wrap;html=1;fontSize=14;dashed=0;fontStyle=0;" vertex="1" parent="1">
-          <mxGeometry x="259" y="-698" width="88" height="35" as="geometry" />
+          <mxGeometry x="259" y="-757" width="88" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="pdf6DkCSVXwr_ouDZP4f-1" value="observe&lt;br&gt;(getFinish)" style="whiteSpace=wrap;html=1;fontSize=14;fillColor=#FFE6CC;strokeColor=#000000;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1434" y="-48" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
