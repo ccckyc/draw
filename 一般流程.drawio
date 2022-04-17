@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T08:34:09.670Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="4VpCoz4u3Vt5Of8FlQso" version="17.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-17T08:43:17.185Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="B4a3ROFQ3Mbj4Fq9tEsB" version="17.4.5" type="github" pages="13">
   <diagram id="cazg4UotALLjVklHVLku" name="ALL">
     <mxGraphModel dx="1114" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1246,7 +1246,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qTo3wd9OJ2Hw4CevGhcg" name="ApiManagerALL">
-    <mxGraphModel dx="1509" dy="1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1645" dy="1604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1357,9 +1357,14 @@
             <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N-2lerN660XSl_3CGN05-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-6">
+        <mxCell id="N-2lerN660XSl_3CGN05-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;entryX=0.022;entryY=0.517;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-6" target="N-2lerN660XSl_3CGN05-43">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1150" y="-739.8333333333333" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-42" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="N-2lerN660XSl_3CGN05-28">
+          <mxGeometry x="-0.3809" relative="1" as="geometry">
+            <mxPoint x="36" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N-2lerN660XSl_3CGN05-6" value="i &amp;lt; iResults.size&lt;br&gt;(0 ≦ i &amp;lt; 50)" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
@@ -1403,33 +1408,29 @@
         <mxCell id="N-2lerN660XSl_3CGN05-18" value="pTitle ==&amp;nbsp;&lt;br&gt;getInstance().mKeyAnimal" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="605" y="-528" width="220" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="N-2lerN660XSl_3CGN05-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-19">
+        <mxCell id="N-2lerN660XSl_3CGN05-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-19" target="N-2lerN660XSl_3CGN05-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="-230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="715" y="-270" />
+              <mxPoint x="970" y="-270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="N-2lerN660XSl_3CGN05-19" value="iListData.typeArea()" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="632.5" y="-368" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N-2lerN660XSl_3CGN05-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="-230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="960" y="-445" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="N-2lerN660XSl_3CGN05-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-20" target="N-2lerN660XSl_3CGN05-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="N-2lerN660XSl_3CGN05-20" value="iListData.typeAnimal()" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
           <mxGeometry x="890" y="-505.5" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N-2lerN660XSl_3CGN05-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-21">
+        <mxCell id="N-2lerN660XSl_3CGN05-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-21" target="N-2lerN660XSl_3CGN05-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="-230" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1120" y="-613" />
-              <mxPoint x="1120" y="-270" />
-              <mxPoint x="960" y="-270" />
-              <mxPoint x="960" y="-230" />
+              <mxPoint x="1070" y="-613" />
+              <mxPoint x="1070" y="-270" />
+              <mxPoint x="970" y="-270" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1451,6 +1452,75 @@
         </mxCell>
         <mxCell id="N-2lerN660XSl_3CGN05-26" value="// ListData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="807.5" y="-348" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-33" target="N-2lerN660XSl_3CGN05-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-33" value="setData(iResults[i].asJsonObject)" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-240" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-37" target="N-2lerN660XSl_3CGN05-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="-480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="540" y="-100" />
+              <mxPoint x="540" y="-740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-37" value="iDataResult.add(iListData)" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="877.5" y="-130" width="185" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-43" target="N-2lerN660XSl_3CGN05-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-46" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="N-2lerN660XSl_3CGN05-45">
+          <mxGeometry x="-0.2852" y="2" relative="1" as="geometry">
+            <mxPoint x="25" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-43" target="N-2lerN660XSl_3CGN05-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1390" y="-741" />
+              <mxPoint x="1390" y="-741" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-49" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" connectable="0" parent="N-2lerN660XSl_3CGN05-48">
+          <mxGeometry x="-0.1872" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-43" value="iDataResult.size&lt;br&gt;&amp;nbsp;== mLimit" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="-781" width="185" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-44" target="N-2lerN660XSl_3CGN05-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-44" value="mIndex += mLimit&lt;br&gt;(mIndex + 50)" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1166.25" y="-643" width="152.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="N-2lerN660XSl_3CGN05-47" target="N-2lerN660XSl_3CGN05-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1507.5" y="-631" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1508" y="-545" />
+              <mxPoint x="1367" y="-545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-47" value="mDataIsFinish&lt;br&gt;&amp;nbsp;= true" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1447.5" y="-771" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-50" value="塞詳細內容" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="542.5" y="-1150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-54" value="pFinish.postValue(mDataIsFinish)" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-505.5" width="233.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="N-2lerN660XSl_3CGN05-58" value="// ListData" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-220" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
