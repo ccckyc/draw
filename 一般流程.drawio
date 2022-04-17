@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-17T13:44:03.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="734aU4NWD6TCwGeuZr6o" version="17.4.5" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-04-17T13:46:06.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="OzIbwCiJKxsfQAMpBxsl" version="17.4.5" type="github" pages="13">
   <diagram id="cazg4UotALLjVklHVLku" name="ALL">
     <mxGraphModel dx="1114" dy="1716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1109,6 +1109,9 @@
         <mxCell id="18YOGgjMPiDMhjHboxY--21" value="mProgressDialog &lt;br&gt;!= null" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;strokeColor=#000000;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="965.8799999999999" y="-216.5" width="154" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="uOxyakkgwze3EdhX6oTA-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1" source="18YOGgjMPiDMhjHboxY--22" target="uOxyakkgwze3EdhX6oTA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="18YOGgjMPiDMhjHboxY--22" value="mProgressDialog&lt;br style=&quot;font-size: 15px;&quot;&gt;.dismiss()" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;strokeColor=#000000;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="982.8799999999999" y="-84.5" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1124,6 +1127,11 @@
         <mxCell id="uOxyakkgwze3EdhX6oTA-2" value="//&amp;nbsp;關掉Loading" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontFamily=Helvetica;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="1102.88" y="-64.5" width="110" height="20" as="geometry" />
         </mxCell>
+        <UserObject label="End" link="data:page/id,Hh-tBNJBfroras_bkvT2" id="uOxyakkgwze3EdhX6oTA-3">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;dashed=0;fontStyle=0;" vertex="1" parent="1">
+            <mxGeometry x="982.8799999999999" y="55.5" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
