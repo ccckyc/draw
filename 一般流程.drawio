@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T15:38:00.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="z2qjac3UN7-9aNzJddXe" version="17.4.6" type="github" pages="18">
+<mxfile host="app.diagrams.net" modified="2022-04-21T15:45:27.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36" etag="NNdHh4slr7hpAPE5l4Q1" version="17.4.6" type="github" pages="19">
   <diagram id="cazg4UotALLjVklHVLku" name="ALL">
     <mxGraphModel dx="1038" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -2324,7 +2324,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gqa_c0ZOFob4r529g-Im" name="ZooAdapter(無註解2)">
-    <mxGraphModel dx="1221" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="1228" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2651,7 +2651,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tXClECOdqsVz9t5nu8Vd" name="zooAdapter_onBindViewHolder">
-    <mxGraphModel dx="1597" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1597" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2782,6 +2782,71 @@
         </mxCell>
         <mxCell id="xbNw7hM9_zgk0cwAfB75-30" value="//點擊過的標記" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FF0000;fontSize=15;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1585.05" y="877" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PCDBShCCYR6eQSDJQ11v" name="zooAdapter_getRoom">
+    <mxGraphModel dx="1038" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SvfNUARhV5liYXeSJiRS-2" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontStyle=0;fontSize=15;fontFamily=Helvetica;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="188.30000000000007" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="SvfNUARhV5liYXeSJiRS-4" target="SvfNUARhV5liYXeSJiRS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-4" value="iFindData = mArraySelected.&lt;br style=&quot;font-size: 15px;&quot;&gt;indexOf(pPosition)" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="160.79000000000008" y="140" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="SvfNUARhV5liYXeSJiRS-7" target="SvfNUARhV5liYXeSJiRS-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-6" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;fontColor=#000000;fontStyle=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SvfNUARhV5liYXeSJiRS-5">
+          <mxGeometry x="-0.333" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-7" value="iFindData&lt;br style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;== -1" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="171.89000000000001" y="230" width="112.81" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="SvfNUARhV5liYXeSJiRS-9" target="SvfNUARhV5liYXeSJiRS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-9" value="iMyData = AppDatabase&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;Query(pHomeTitle, pNameCh, pNameEn, pPosition)" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="50" y="339.5" width="356.58" height="70.5" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="SvfNUARhV5liYXeSJiRS-12" target="SvfNUARhV5liYXeSJiRS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-11" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;fontFamily=Helvetica;fontColor=#000000;fontStyle=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="SvfNUARhV5liYXeSJiRS-10">
+          <mxGeometry x="-0.0815" relative="1" as="geometry">
+            <mxPoint x="22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-12" value="iMyData != null" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="166.41999999999996" y="440" width="123.75" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fontStyle=0" edge="1" parent="1" source="SvfNUARhV5liYXeSJiRS-14" target="SvfNUARhV5liYXeSJiRS-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="228.29275862069028" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-14" value="mArraySelected.add(pPosition)" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="115.96000000000001" y="550" width="224.69" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-16" value="mHandler.postDelayed(mRunnable, 500)" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FFFFFF;dashed=0;fontStyle=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="89.87" y="620" width="276.87" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-17" value="getRoomQuery" style="whiteSpace=wrap;html=1;fontSize=15;fontStyle=0;fontFamily=Helvetica;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="36.25" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SvfNUARhV5liYXeSJiRS-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;fontStyle=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=15;exitPerimeter=0;" edge="1" parent="1" source="SvfNUARhV5liYXeSJiRS-2" target="SvfNUARhV5liYXeSJiRS-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="228.2600000000001" y="105.5" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
