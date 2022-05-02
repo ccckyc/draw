@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T12:34:11.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ouUDly8n1cqWhlaCKYqO" version="17.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-02T12:41:30.722Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ZAqFxMxPjoBn1LnMTvhk" version="17.5.0" type="github" pages="14">
   <diagram id="cazg4UotALLjVklHVLku" name="ALL">
-    <mxGraphModel dx="2147" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="995" dy="2064" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0ICTotIIzp-utOfAbFgl" name="MainActivity">
-    <mxGraphModel dx="3780" dy="2537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1623" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,7 +362,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="kn-lXhGQb7qIHuzSDbyJ" name="Application_goToPage">
-    <mxGraphModel dx="1353" dy="1690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="1885" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -613,29 +613,29 @@
     </mxGraphModel>
   </diagram>
   <diagram id="dr8KehL09mCkOGugJkBz" name="BaseFragment">
-    <mxGraphModel dx="2030" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="853" dy="1936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VVxIRxN6lbajkhqtIVCx-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontStyle=0;fontSize=15;" parent="1" source="VVxIRxN6lbajkhqtIVCx-2" edge="1" target="VVxIRxN6lbajkhqtIVCx-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="103.75" y="-960" as="targetPoint" />
+            <mxPoint x="106.87" y="-960" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VVxIRxN6lbajkhqtIVCx-2" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontStyle=0;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="63.75" y="-1040" width="80" height="30" as="geometry" />
+          <mxGeometry x="66.87" y="-1040" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upVbxFIc9KIVT6ynaGPz-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" parent="1" source="VVxIRxN6lbajkhqtIVCx-5" target="XN1iCMXu21JJIMoSyXyl-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VVxIRxN6lbajkhqtIVCx-5" value="onCreateView (initview)&lt;br&gt;&lt;br&gt;// mViewModel, mDataBinding" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry y="-970" width="207.5" height="60" as="geometry" />
+          <mxGeometry x="3.12" y="-970" width="207.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XN1iCMXu21JJIMoSyXyl-1" value="BaseFragment" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry y="-1169" width="110" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XN1iCMXu21JJIMoSyXyl-6" value="onViewCreated&lt;br&gt;&lt;br&gt;&lt;span&gt;// getBundle&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#000000&quot;&gt;(set mTitle data)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="6.25" y="-870" width="195" height="75" as="geometry" />
+          <mxGeometry x="8.881784197001252e-16" y="-870" width="213.75" height="75" as="geometry" />
         </mxCell>
         <mxCell id="XN1iCMXu21JJIMoSyXyl-8" value="onViewCreated" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="304" y="-1169" width="110" height="35" as="geometry" />
@@ -699,7 +699,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="aPbFrLUWnV4jNbvpWXee" name="HomeFragment">
-    <mxGraphModel dx="1687" dy="1950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="510" dy="1856" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -765,7 +765,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JBi-9Xd2q6rtQXh__6bf" name="ListFragment">
-    <mxGraphModel dx="2147" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="2145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2392,7 +2392,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rm80J6JCX_6OQmsLWBJz" name="GeoAdapter">
-    <mxGraphModel dx="598" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="597" dy="1706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
