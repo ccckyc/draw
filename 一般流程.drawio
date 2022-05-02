@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-02T12:18:02.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="9J7zC4vTx1mU_e06iFNx" version="17.5.0" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2022-05-02T12:34:11.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ouUDly8n1cqWhlaCKYqO" version="17.5.0" type="github" pages="14">
   <diagram id="cazg4UotALLjVklHVLku" name="ALL">
     <mxGraphModel dx="2147" dy="2164" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -1962,7 +1962,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qRS_rdFL4HYo0I3naqKa" name="DetailFragment">
-    <mxGraphModel dx="2102" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2402" dy="1850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2337,6 +2337,60 @@
       </root>
     </mxGraphModel>
   </diagram>
+  <diagram id="q1tNHibOgTl1aMiqPUtm" name="GeoFragment">
+    <mxGraphModel dx="598" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ByAEhUNzO959j1HPmaNe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;fontStyle=0" parent="1" source="ByAEhUNzO959j1HPmaNe-2" target="ByAEhUNzO959j1HPmaNe-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ByAEhUNzO959j1HPmaNe-2" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontStyle=0;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="123.44" y="-1074.3400000000001" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rfrSNMvJ51SqrXjDZDof-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#6666FF;" edge="1" parent="1" source="ByAEhUNzO959j1HPmaNe-3" target="d7mBL0cW8MOQ3ASd7Njn-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;span style=&quot;font-size: 15px&quot;&gt;uiInit&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;(&lt;/span&gt;getGeoData()&lt;span style=&quot;font-size: 15px&quot;&gt;)&lt;br&gt;//&amp;nbsp;&lt;/span&gt;set mGeo data&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/span&gt;" id="ByAEhUNzO959j1HPmaNe-3">
+          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;size=0.0625;fontStyle=0" parent="1" vertex="1">
+            <mxGeometry x="50" y="-1008.6800000000001" width="226.87" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="ByAEhUNzO959j1HPmaNe-4" value="GeoFragment" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FF0000;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=1;gradientColor=none;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry y="-1160" width="128.5" height="37.38" as="geometry" />
+        </mxCell>
+        <mxCell id="d7mBL0cW8MOQ3ASd7Njn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fontStyle=0" parent="1" source="d7mBL0cW8MOQ3ASd7Njn-1" target="d7mBL0cW8MOQ3ASd7Njn-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="initView" link="data:page/id,rm80J6JCX_6OQmsLWBJz" id="d7mBL0cW8MOQ3ASd7Njn-1">
+          <mxCell style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
+            <mxGeometry x="103.42999999999999" y="-895" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="MReIJdXye_heH4LyawqM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" parent="1" source="d7mBL0cW8MOQ3ASd7Njn-2" target="MReIJdXye_heH4LyawqM-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d7mBL0cW8MOQ3ASd7Njn-2" value="mGeoRecyclerView.adapter = mGeoAdapter" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="63.43000000000001" y="-815" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MReIJdXye_heH4LyawqM-1" value="runFirstWebView" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="103.44" y="-715" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EfuKrt7MsstAJWtET5U0-16" value="initView" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry x="414" y="-1155.65" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EfuKrt7MsstAJWtET5U0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" parent="1" source="EfuKrt7MsstAJWtET5U0-17" target="EfuKrt7MsstAJWtET5U0-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EfuKrt7MsstAJWtET5U0-17" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontStyle=0;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="537.5" y="-1074.3400000000001" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EfuKrt7MsstAJWtET5U0-18" value="mGeoRecyclerView.layoutManager = iLayoutManager" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" parent="1" vertex="1">
+          <mxGeometry x="461" y="-979.34" width="233" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram id="rm80J6JCX_6OQmsLWBJz" name="GeoAdapter">
     <mxGraphModel dx="598" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2391,60 +2445,6 @@
         </mxCell>
         <mxCell id="S3ezZycL4sJfcNDpIaoU-17" value="&lt;font color=&quot;#000000&quot;&gt;ViewHolder&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#FF0000;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="45" y="-890" width="160" height="50" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="q1tNHibOgTl1aMiqPUtm" name="GeoFragment">
-    <mxGraphModel dx="598" dy="1714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="ByAEhUNzO959j1HPmaNe-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=#FFFFFF;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#FF0000;strokeColor=#000000;strokeWidth=1;fontStyle=0" parent="1" source="ByAEhUNzO959j1HPmaNe-2" target="ByAEhUNzO959j1HPmaNe-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ByAEhUNzO959j1HPmaNe-2" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontStyle=0;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="123.44" y="-1074.3400000000001" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="rfrSNMvJ51SqrXjDZDof-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#6666FF;" edge="1" parent="1" source="ByAEhUNzO959j1HPmaNe-3" target="d7mBL0cW8MOQ3ASd7Njn-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="&lt;span style=&quot;font-size: 15px&quot;&gt;uiInit&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;(&lt;/span&gt;getGeoData()&lt;span style=&quot;font-size: 15px&quot;&gt;)&lt;br&gt;//&amp;nbsp;&lt;/span&gt;set mGeo data&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/span&gt;" id="ByAEhUNzO959j1HPmaNe-3">
-          <mxCell style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#000000;strokeWidth=1;fillColor=#FFFFFF;gradientColor=none;size=0.0625;fontStyle=0" parent="1" vertex="1">
-            <mxGeometry x="50" y="-1008.6800000000001" width="226.87" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="ByAEhUNzO959j1HPmaNe-4" value="GeoFragment" style="whiteSpace=wrap;html=1;fontSize=15;fillColor=#FF0000;fontColor=#000000;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=1;gradientColor=none;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry y="-1160" width="128.5" height="37.38" as="geometry" />
-        </mxCell>
-        <mxCell id="d7mBL0cW8MOQ3ASd7Njn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;fontStyle=0" parent="1" source="d7mBL0cW8MOQ3ASd7Njn-1" target="d7mBL0cW8MOQ3ASd7Njn-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="initView" link="data:page/id,rm80J6JCX_6OQmsLWBJz" id="d7mBL0cW8MOQ3ASd7Njn-1">
-          <mxCell style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
-            <mxGeometry x="103.42999999999999" y="-895" width="120" height="40" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="MReIJdXye_heH4LyawqM-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" parent="1" source="d7mBL0cW8MOQ3ASd7Njn-2" target="MReIJdXye_heH4LyawqM-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="d7mBL0cW8MOQ3ASd7Njn-2" value="mGeoRecyclerView.adapter = mGeoAdapter" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="63.43000000000001" y="-815" width="200" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MReIJdXye_heH4LyawqM-1" value="runFirstWebView" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="103.44" y="-715" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="EfuKrt7MsstAJWtET5U0-16" value="initView" style="whiteSpace=wrap;html=1;fontColor=#000000;strokeColor=#000000;fillColor=#FFFFFF;fontSize=15;fontFamily=Helvetica;fontStyle=0" parent="1" vertex="1">
-          <mxGeometry x="414" y="-1155.65" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="EfuKrt7MsstAJWtET5U0-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=15;fontColor=#000000;" parent="1" source="EfuKrt7MsstAJWtET5U0-17" target="EfuKrt7MsstAJWtET5U0-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EfuKrt7MsstAJWtET5U0-17" value="Start" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fontStyle=0;fontSize=15;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="537.5" y="-1074.3400000000001" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EfuKrt7MsstAJWtET5U0-18" value="mGeoRecyclerView.layoutManager = iLayoutManager" style="whiteSpace=wrap;html=1;fontSize=15;dashed=0;fontStyle=0;" parent="1" vertex="1">
-          <mxGeometry x="461" y="-979.34" width="233" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
